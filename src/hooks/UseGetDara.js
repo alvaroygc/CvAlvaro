@@ -1,5 +1,5 @@
 import {useState, useEffect} from 'react';
-const api = 'https://us-central1-gndx-cv.cloudfunctions.net/me';
+const api = 'https://alvaro-gudiel-cv.firebaseio.com/.json';
 
 const useGetData = () => {
     const [mydata, setData ] = useState([]);
