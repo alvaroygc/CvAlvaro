@@ -14,7 +14,7 @@ const Aboutimg = styled.img `
     border-radius: 100%;
     width: 160px;
     height: 160px;
-    border: 2px solid #E91E63; 
+    border: 2px solid #0066ff; 
     margin: 0 auto;
     display: block;
     box-shadow: 0 0 10px; rgba(0,0,0,0.6)
