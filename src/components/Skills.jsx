@@ -16,7 +16,7 @@ const SkillsLine = styled.div`
     height: 8px;
     position: relative;
     border-radius: 50px;
-    background: #F8BBD0;
+    background: #B3D1FF;
     
 `;
 
