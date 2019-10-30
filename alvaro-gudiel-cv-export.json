@@ -14,11 +14,11 @@
     "name" : "Backend Developer"
   } ],
   "education" : [ {
-    "degree" : "Atomic Master",
+    "degree" : "Pensum Cerrado Ingenieria en Sistemas",
     "description" : " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
-    "endDate" : "Jan 2017",
-    "institution" : "MIT",
-    "startDate" : "Jan 2018"
+    "endDate" : "Noviembre 2018",
+    "institution" : "Universidad Mariano Galvez de Guatemala",
+    "startDate" : "Enero 2011"
   }, {
     "degree" : "Space Engineering",
     "description" : "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. ",
@@ -34,17 +34,17 @@
     "startDate" : "Jan 2018"
   } ],
   "experience" : [ {
-    "company" : "PugStar",
-    "endDate" : "Present",
-    "jobDescription" : "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-    "jobTitle" : "Frontend",
-    "startDate" : "Jan 2020"
+    "company" : "Organismo Judicial",
+    "endDate" : "Presente",
+    "jobDescription" : "Diferentes atribuciones.",
+    "jobTitle" : "Auxiliar Administrativo III",
+    "startDate" : "Septiembre 2011"
   }, {
     "company" : "CatStore",
-    "endDate" : "Jan 2016",
-    "jobDescription" : "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-    "jobTitle" : "Backend",
-    "startDate" : "Sept 2019"
+    "endDate" : "Agosto 2011",
+    "jobDescription" : "Tecnico reparador de fotocopiadoras y duplicadores de marcar Richo y Riso.",
+    "jobTitle" : "Representante Tecnico",
+    "startDate" : "Enero 2011"
   } ],
   "name" : "Alvaro Gudiel",
   "profession" : "Programador Junior",
@@ -60,18 +60,22 @@
   }, {
     "name" : "React",
     "percentage" : "90%"
-  } ],
+  },
+{
+    "name" : "C#",
+    "percentage" : "50%"
+  }],
   "social" : [ {
     "name" : "facebook",
-    "url" : "https://facebook.com/"
+    "url" : "https://www.facebook.com/alvaro.gudiel.9"
   }, {
     "name" : "twitter",
-    "url" : "https://twitter.com/"
+    "url" : "https://twitter.com/YovaniGudiel"
   }, {
     "name" : "github",
-    "url" : "https://github.com/"
+    "url" : "https://github.com/alvaroygc"
   }, {
     "name" : "linkedin",
-    "url" : "https://www.linkedin.com/"
+    "url" : "https://www.linkedin.com/in/alvaro-gudiel-54741b197/"
   } ]
 }
