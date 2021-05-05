@@ -10,7 +10,7 @@ const Education = props => (
             {props.data.map((edu, index) => (
                 <div className='Education-item' key={`Edu-${index}`}>                             
                 <H3Styled>{edu.degree} {edu.institution}
-                <span>{edu.starDate} - {edu.endDate}</span>
+                <span>{edu.startDate} - {edu.endDate}</span>
                 </H3Styled>
                 <PStyled name={edu.description} />
             </div>        
