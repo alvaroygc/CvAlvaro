@@ -13,9 +13,8 @@ const Education = props => (
                 {edu.degree} <br/>
                 {edu.institution} <br/>
                 <span>{edu.startDate} - {edu.endDate}</span>
-                 <PStyled name={edu.description} />
                 </H3Styled>
-               
+                <PStyled name={edu.description} />
             </div>        
     ))}            
         </div>
